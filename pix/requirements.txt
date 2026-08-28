@@ -1,0 +1,2 @@
+validate-docbr
+pytest
