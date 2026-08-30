@@ -1,0 +1,5 @@
+com\exemplo\App.class
+com\exemplo\CORE\erros\ServicoCotacaoIndisponivelError.class
+com\exemplo\ADAPTER\ConverterMoeda.class
+com\exemplo\INFRAESTRUCTURE\cambio\ApiCambio.class
+com\exemplo\ADAPTER\infra\ConversorMoeda.class
